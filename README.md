@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bengy1228
+- 👀 I’m interested in Python programming and XC8 microcontrollers.
+- 🌱 I’m currently learning the fascinating world of microcontrollers.
+- 💞️ I’m looking to collaborate on (unless it's something extremely critical).
+- 📫 How to reach me:
+  - 📧 Email: bengyantony15@gmail.com
+  - 📱 Phone: +51 988410652
